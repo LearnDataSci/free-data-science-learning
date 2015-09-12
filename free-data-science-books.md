@@ -1,6 +1,6 @@
 # Free Data Science Books
 
-Pulled from the web, here is a great collection of eBooks (most of which have a physical version that you can purchase on Amazon) written on the topics of Data Science, Business Analytics, Data Mining, Big Data, Machine Learning, Algorithms, Data Science Tools, and Programming Languages for Data Science.
+Originally presented on [LearnDataSci](www.learndatasci.com/free-books) and further inspired by [Free Programming Books](https://github.com/vhf/free-programming-books).
 
 * * *
 ####Index
