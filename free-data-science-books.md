@@ -57,7 +57,7 @@ Pulled from the web, here is a great collection of eBooks (most of which have a 
 
 ##### Python
 
-*   **[Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.pdf)** 
+*   **[Think Python: How does one Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.pdf)** 
     <br>_Allen Downey,_ 2012
 *   **[Python Programming](https://en.wikibooks.org/wiki/Python_Programming)** 
     <br>_Wikibooks_, 2015
