@@ -3,6 +3,20 @@
 Pulled from the web, here is a great collection of eBooks (most of which have a physical version that you can purchase on Amazon) written on the topics of Data Science, Business Analytics, Data Mining, Big Data, Machine Learning, Algorithms, Data Science Tools, and Programming Languages for Data Science.
 
 * * *
+####Index
+*   [Data Science in General](#data-science-in-general)
+*   [Interviews with Data Scientists](#interviews-with-data-scientists)
+*   [Forming Data Science Teams](#forming-data-science-teams)
+*   [Data Analysis](#data-analysis)
+*   [Distributed Computing Tools](#distributed-computing-tools)
+*   [Languages](#learning-languages)
+*   [Data Mining and Machine Learning](#data-mining-and-machine-learning)
+*   [Statistics and Statistical Learning](#statistics-and-statistical-learning)
+*   [Data Visualization](#data-visualization)
+*   [Big Data](#big-data)
+*   [Computer Science Topics](#computer-science-topics)
+
+* * *
 
 #### Data Science in General
 
@@ -53,7 +67,7 @@ Pulled from the web, here is a great collection of eBooks (most of which have a 
 
 * * *
 
-#### Learning Languages
+#### Learning Languages
 
 ##### Python
 
