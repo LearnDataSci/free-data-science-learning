@@ -3,7 +3,7 @@
 Originally presented on [LearnDataSci](https://www.learndatasci.com/free-books) and further inspired by [Free Programming Books](https://github.com/vhf/free-programming-books).
 
 * * *
-####Index
+#### Index
 *   [Data Science in General](#data-science-in-general)
 *   [Interviews with Data Scientists](#interviews-with-data-scientists)
 *   [Forming Data Science Teams](#forming-data-science-teams)
