@@ -95,7 +95,7 @@ Originally presented on [LearnDataSci](https://www.learndatasci.com/free-books) 
 
 *   **[Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)** 
     <br>_Zed. A. Shaw,_ 2010
-*   **[SQL Tutorial](http://www.tutorialspoint.com/sql/sql_tutorial.pdf) ** 
+*   **[SQL Tutorial](http://www.tutorialspoint.com/sql/sql_tutorial.pdf)** 
     <br>_Tutorials Point_
 
 * * *
@@ -192,11 +192,11 @@ Originally presented on [LearnDataSci](https://www.learndatasci.com/free-books) 
 
 #### Computer Science Topics
 
-*   **[Natural Language Processing with Python](http://www.nltk.org/book_1ed/) ** 
+*   **[Natural Language Processing with Python](http://www.nltk.org/book_1ed/)** 
     <br>_Steven Bird,_ 2009
-*   **[Computer Vision](http://szeliski.org/Book/) ** 
+*   **[Computer Vision](http://szeliski.org/Book/)** 
     <br>_Richard Szeliski,_ 2010
-*   **[Concise Computer Vision](http://cvrs.whu.edu.cn/downloads/ebooks/Concise%20Computer%20Vision%20-%20An%20Introduction%20into%20Therory%20and%20Algorithm.pdf) ** 
+*   **[Concise Computer Vision](http://cvrs.whu.edu.cn/downloads/ebooks/Concise%20Computer%20Vision%20-%20An%20Introduction%20into%20Therory%20and%20Algorithm.pdf)** 
     <br>_Reinhard Klette,_ 2010
 *   **[Artificial Intelligence A Modern Approach, 1st Edition](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)** 
     <br>_Stuart Russell,_ 1995
